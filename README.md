@@ -1,0 +1,4 @@
+# 2021_Jan_31_Imbalanced_Classification_with_the_Fraudulent_Credit_Card_Transactions_Dataset
+Tutorial for Imbalanced Classification
+
+Based on work by Jason Brownlee PhD from Machine Learning Mastery
